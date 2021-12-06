@@ -1,1 +1,5 @@
 Utilisation de l'outil
+L' ancer le script sur un systeme linux à jour et suivez les instructions..
+En cas de problemes, taper
+sudo apt-get update
+sudo apt-get upgrade
