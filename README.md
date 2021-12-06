@@ -10,7 +10,8 @@ This explain how you can use it
 ----------------
 
 This Script scanne the ports what is open on server.
-To run it, tape
+To run it, enter in your terminal
 
 python3 Scanner_of_ports.py <site_name> <list of ports>
-  If you don't give the port, this script scan all port for between 0 and 1024
+  
+If you don't give the port list, the script scan all port between 0 and 1024
